@@ -1,0 +1,16 @@
+{
+  "name": "notes-node",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "James Anderson",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^2.3.2",
+    "lodash": "^4.17.5",
+    "yargs": "^11.0.0"
+  }
+}
